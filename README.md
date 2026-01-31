@@ -9,7 +9,12 @@ Wallets controladas por backend usando Openfort con seguridad TEE (Trusted Execu
 ## 🎥 Video Tutorial
 
 Este repositorio acompaña el video tutorial de CodaLabs:
-**[Openfort Backend Wallets: Control Server-Side de Wallets](https://youtube.com/@CodaLabs)**
+
+<a href="https://www.youtube.com/watch?v=3Od8Xog9ONA">
+  <img src="https://img.youtube.com/vi/3Od8Xog9ONA/maxresdefault.jpg" alt="Openfort Backend Wallets Tutorial" width="600">
+</a>
+
+▶️ **[Ver en YouTube: Openfort Backend Wallets - Control Server-Side](https://www.youtube.com/watch?v=3Od8Xog9ONA)**
 
 ## ✨ Características
 
